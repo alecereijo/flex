@@ -1,0 +1,2 @@
+En este ejercicio introducimos diez img poniendolas en fila mediante display flex
+la primera imagen queda tapada por una imagen nueva mediante child 1 conseguimos introducir un texto y la imagen encima de la primera chaqueta que teniamos nombrando en css al h5 y h6 del child 1, con visibility hidden hacemos que estos elementos mencionados queden ocultos y asi introdujimos la imagen y el texto nuevos
